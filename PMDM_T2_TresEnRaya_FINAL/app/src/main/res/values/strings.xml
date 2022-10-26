@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="app_name">PMDM_T2_ThreeInARow</string>
+        <string name="action_settings">Settings</string>
+        <string name="hello_world">Hello World!</string>
+
+        <string name="puntuacion_jugador">Player:</string>
+        <string name="puntuacion_maquina">Computer:</string>
+        <string name="puntuacion_partidas">Games:</string>
+
+
+
+        <string name="primero_jugador">You First</string>
+        <string name="primero_maquina">Android will go first</string>
+
+        <string name="turno_jugador">Your turn</string>
+        <string name="turno_maquina">Android turn</string>
+
+        <string name="result_tie">Tie</string>
+        <string name="result_human_wins">¡ You WIN !</string>
+        <string name="result_computer_wins">¡ Android WINS !</string>
+
+        <string name="dificultad_seleccion">Select a difficulty level</string>
+        <string name="dificultad_facil">Easy</string>
+        <string name="dificultad_duro">Hard</string>
+        <string name="dificultad_experto">Expert</string>
+
+        <string name="salir">Are you sure you want to leave?</string>
+        <string name="yes">Yes</string>
+        <string name="no">No</string>
+
+        <string name="new_game">New Game</string>
+
+        <string name="game_over">"Game Over"</string>
+        <string name="restart_game">Do you want to Restart?</string>
+        <string name="accept">"Accept</string>
+
+        <string name="toast_start_game">The game starts</string>
+        <string name="toast_player_win">¡Player wins!</string>
+        <string name="toast_computer_win">¡Computer wins!</string>
+
+        <string name="habla_gana_jugador">"The player has won, keep playing"</string>
+        <string name="habla_gana_maquina">""The machine wins, keep playing""</string>
+</resources>

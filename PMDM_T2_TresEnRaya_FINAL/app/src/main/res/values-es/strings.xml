@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PMDM_T2_TresEnRaya</string>
+    <string name="action_settings">Opciones</string>
+    <string name="hello_world">Hola Mundo!</string>
+
+    <string name="puntuacion_jugador">Jugador:</string>
+    <string name="puntuacion_maquina">Máquina:</string>
+    <string name="puntuacion_partidas">Partidas:</string>
+
+
+    <string name="primero_jugador">Tú primero</string>
+    <string name="primero_maquina">Android irá primero</string>
+
+    <string name="turno_jugador">Tu turno</string>
+    <string name="turno_maquina">Turno de Android</string>
+
+    <string name="result_tie">Empate</string>
+    <string name="result_human_wins">¡ GANASTE !</string>
+    <string name="result_computer_wins">¡ Android GANA !</string>
+
+    <string name="dificultad_seleccion">Selecciona un nivel de dificultad</string>
+    <string name="dificultad_facil">Fácil</string>
+    <string name="dificultad_duro">Duro</string>
+    <string name="dificultad_experto">Experto</string>
+
+    <string name="salir">Estas seguro de terminar?</string>
+    <string name="yes">Si</string>
+    <string name="no">No</string>
+
+    <string name="new_game">Nuevo Juego</string>
+
+    <string name="game_over">"Partida Terminada"</string>
+    <string name="restart_game">Reiniciar el juego?</string>
+    <string name="accept">"Aceptar</string>
+
+    <string name="toast_start_game">Empieza el juego</string>
+    <string name="toast_player_win">¡Gana el Jugador!</string>
+    <string name="toast_computer_win">¡Gana la Máquina!</string>
+
+    <string name="habla_gana_jugador">"El jugador ha ganado, sigue jugando"</string>
+    <string name="habla_gana_maquina">"La maquina ha ganado, sigue jugando"</string>
+</resources>
