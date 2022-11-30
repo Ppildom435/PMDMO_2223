@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">pmdm-t4-agenda</string>
+
+    <string-array name="opciones">
+        <item>Llamar</item>
+        <item>Enviar whatsapp</item>
+        <item>Cancelar</item>
+    </string-array>
+</resources>
