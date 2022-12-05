@@ -57,7 +57,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         progress.setProgressStyle(ProgressDialog.STYLE_HORIZONTAL);
 
         // Mostrar cuadro de diálogo
-        progress.show();
+        //progress.show();
 
         // Incrementar valor del progreso en n. unidades
         //progress.incrementProgressBy(10);// Aumenta en 1 unidad
@@ -105,7 +105,21 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         protected void onProgressUpdate(Integer... values) {
             super.onProgressUpdate(values);
             //Actualiza
+
             progress.incrementProgressBy(10);
+            progress.show();
+
+            if (progress.getProgress()>=10){
+                progress.hide();
+                if (progress.getProgress()>=90){
+                    progress.show();
+                }
+            }
+
+
+
+
+
 
 
 
